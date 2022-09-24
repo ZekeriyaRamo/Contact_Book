@@ -1,0 +1,66 @@
+.activeCard{
+    background-color: #1ABC9C !important ;
+    height: 10rem !important;
+    width: 18.5rem;
+}
+.withEmailcard{
+    background-color: #2C3E50 !important;
+    height: 10rem !important;
+    width: 18.5rem;
+}
+.inacticeCard{
+    background-color: #FC766A !important;
+    height: 10rem !important;
+    width: 18.5rem;
+}
+.withoutemail{
+    background-color:#5B84B1 !important;
+    height: 10rem !important;
+    width: 18.5rem;
+    
+}
+.card-body > .bi::before {
+    vertical-align: 2rem !important;
+}
+.ico{
+    font-size: 3.2rem;
+    opacity: 0.5 ;
+}
+.titl{
+    font-size: 2.3rem;
+    font-weight: 400 !important;
+}
+.handled-user{
+  background-color: #E7E8EA;
+  border: 1px solid #DDDFE2;
+  text-align: center !important;
+  padding: 0.2rem;
+  padding-left: 0.7rem;
+  padding-right: 0.7rem;
+  border-radius: 4px;
+  font-size: 0.9rem !important;
+  line-height: 0.9rem;
+  width: 5.2rem;
+  }
+.add{
+    color: #00AC69;
+    font-size: 0.8rem;
+}  
+.delete{
+    color: #FC766A;
+    font-size: 0.8rem;
+}  
+.update{
+    color: #F4A100;
+    font-size: 0.8rem;
+}  
+.emailsent{
+    color: #17C3B2;
+    width: 0.5rem;
+}  
+.access{
+    color: #0061F2;
+} 
+.activity{
+    width: 42.5rem !important;
+} 

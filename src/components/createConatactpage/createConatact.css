@@ -1,0 +1,12 @@
+.imagebg {
+    width: 11rem;
+    height: 11rem;
+    border-radius: 50%;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+  }
+
+  .inputImage{
+    visibility:hidden;
+  }

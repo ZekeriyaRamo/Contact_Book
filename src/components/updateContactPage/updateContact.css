@@ -1,0 +1,12 @@
+.imagebg {
+    /* background-image: url("../../images/image1.png"); */
+    width: 11rem;
+    height: 11rem;
+    border-radius: 50%;
+    /* background-position: center; */
+    object-fit: cover;
+    
+  }
+  textarea{
+    height: 5.8rem !important;
+  }

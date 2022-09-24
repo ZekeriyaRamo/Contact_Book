@@ -1,0 +1,67 @@
+.navbar{
+    background-color:#4E73DF ;
+    
+}
+.navlogo{
+  width: 9.5rem;
+  margin-right: 6.5rem;
+}
+.offcanva{
+    width: 90% !important;
+    height: 98% !important;
+}
+.nav{
+    text-decoration: none;
+    color: black;
+    font: Roboto;
+    letter-spacing: 0px;
+    font-weight: 500;
+    opacity: 1;
+    margin-left: 2rem;
+    margin-top: 1rem;
+  }
+
+  .hr {
+    background-color: #D9D9D9;
+    height: 2px;
+   
+    font-family: Roboto;
+  }
+
+  .dropdown-toggle::after {
+    content: unset !important;
+  }
+
+
+.wd{
+    
+width: 1rem;
+}  
+.nav-link {
+  color: rgb(255, 255, 255) !important;
+  opacity: 0.7 !important;
+}
+.nav-link:focus, .nav-link:hover {
+  color: rgb(255, 255, 255) !important;
+  opacity: 1 !important;
+}
+.btn-close {
+  background:  url("../../images/close.svg") center/2em !important;
+  font-size: small;
+}
+.offcanvas-header {
+  height: 3.6rem;
+  padding-top: 1.2rem !important;
+  padding-bottom: 1.2rem !important;
+}
+.bi-list::before{
+  vertical-align: -0.25em !important;
+}    
+.parent_person > .bi::before{
+  vertical-align: -0.2rem !important;
+  
+}
+/* .bip::before{
+ 
+  line-height: 0 !important;
+} */

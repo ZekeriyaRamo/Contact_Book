@@ -1,0 +1,9 @@
+.image{
+    background-image: url("../../images/login.jpg");
+    background-size: cover;
+    padding-bottom: 929px;
+    background-position: center;
+}
+.reg > form{
+    min-width: unset !important;
+}

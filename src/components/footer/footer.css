@@ -1,0 +1,49 @@
+.footer{
+    position: absolute;
+    bottom: 0;
+    height: 4rem;
+   
+}
+
+.all{
+    color: #D9D9D9;
+   
+}
+.hr {
+    background-color: #D9D9D9;
+    height: 1px;
+   
+    font-family: Roboto;
+  }
+.text1{
+    color: #FFFFFF;
+    margin-left: 6rem;
+    opacity: 0.6;
+}
+.text{
+    color: #FFFFFF !important;
+    margin-left: 24rem;
+    opacity: 0.6;   
+}
+
+.resfooter{
+    bottom: 0;
+    position: absolute;
+    
+}
+.responsivehr{
+    background-color: #D9D9D9;
+    height: 1px;
+    width: 21.5rem;
+    opacity: 1;
+   
+}
+.textresponsive{
+    font-size: 13px;
+    color: #000000;
+    opacity: 0.6;
+    background: #F5F5F5 !important;
+}
+/* .bgc{
+    background: #F5F5F5 !important;
+} */

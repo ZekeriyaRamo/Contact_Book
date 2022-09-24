@@ -1,0 +1,63 @@
+.red{
+    background-color: #DC3545 !important;
+    font-weight: 400 !important;
+    
+}
+.blue{
+    font-weight: 400 !important;
+}
+
+.Pending{
+    background-color: #FFF3CD;
+    color: #856404;
+    text-align: center !important;
+    padding: 0.25rem;
+    padding-left: 1.1rem;
+    padding-right: 1.1rem;
+    border:1px solid #FFEEBA;
+    border-radius: 4px;
+    font-size: 0.9rem !important;
+}
+.Active{
+    background-color: #D4EDDA;
+    color: #155724;
+    text-align: center !important;
+    padding:0.25rem;
+    padding-left: 1.1rem;
+    padding-right: 1.1rem;
+    border:1px solid #C3E6CB;
+    border-radius: 4px;
+    font-size: 0.9rem !important;
+}
+.Locked{
+    background-color: #F8D7DA;
+    color: #721C24;
+    padding: 0.25rem;
+    padding-left: 1.1rem;
+    padding-right: 1.1rem;
+    border:1px solid#F5C6CB;
+    border-radius: 4px;
+    text-align: center !important;
+    font-size: 0.9rem !important;
+}
+.bi::before{
+  
+    vertical-align: 0.2rem !important;
+}
+tr.ft{border-bottom : 2px solid #343A40 !important}
+tr:nth-child(n+1){border-bottom : 2px solid #DDE1E6}
+th{
+    padding-top: 1.4rem !important;
+    padding-bottom: 1.4rem !important;
+    font-weight: 700 !important;
+    font-size: 1.1rem !important;
+    
+  }
+ td{
+    padding-top: 0.8rem !important;
+    padding-bottom: 0.8rem !important;
+    vertical-align: middle;
+    font-weight: 400 !important;
+    font-size: 1.1rem !important;
+  }
+  

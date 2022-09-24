@@ -1,0 +1,75 @@
+
+td{
+    padding-top: 0.6rem !important;
+    padding-bottom: 0.6rem !important;
+    vertical-align: middle;
+    
+}
+.avatar {
+    background-image: url("../../images/image1.png");
+    width: 3.2rem;
+    height: 3.2rem;
+    border-radius: 50%;
+    background-position: center;
+    object-fit: cover;
+  }
+.avatarResponsive {
+    background-image: url("../../images/image1.png");
+    width: 5.1rem;
+    height: 5.1rem;
+    border-radius: 50%;
+    background-position: center;
+    object-fit: cover;
+  }
+.gren{
+  background-color: #28A745 !important;
+}
+.wid{
+  width: 22.5rem !important;
+  
+}
+.Inactive{
+  background-color: #E7E8EA;
+  border: 1px solid #DDDFE2;
+  text-align: center !important;
+  padding: 0.25rem;
+  padding-left: 0.7rem;
+  padding-right: 0.7rem;
+  border-radius: 4px;
+  font-size: 0.9rem !important;
+}
+
+.tooltip {
+  position: absolute;
+  opacity: unset !important;
+  --bs-tooltip-arrow-height: unset !important;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 8rem;
+  text-align: center;
+  font-size: 1rem;
+  padding: 0.5rem 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 55%;
+  left: 50%;
+  margin-left: -60px;
+  font-weight: 600;
+  /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
+  opacity: 0;
+  transition: opacity 1s;
+
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+.cursor{
+  cursor: pointer;
+}
+.container{
+  --bs-gutter-x: unset !important;
+}
